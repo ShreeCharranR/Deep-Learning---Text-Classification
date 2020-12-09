@@ -4,6 +4,7 @@
 
 
 # 3) Multiple
+- Logistic
 - Pre-trained word embeddings for Deep Learning Models (FastText with CNNs)
 - Universal Embeddings (Sentence Encoders, NNLMs)
 - Transformers (BERT, DistilBERT)
