@@ -1,2 +1,5 @@
-# Deep-Learning---Text-Classification
-LSTM , CNN
+# 1) CNN
+
+# 2) LSTM & Stacked LSTM
+
+
